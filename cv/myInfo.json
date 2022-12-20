@@ -3,5 +3,10 @@
     "prenom" : "Anthony",
     "dateDeNaissance" : "28/04/1995",
     "adresse" : "Avenue de Picsou 18, 1060 Saint-Gilles",
-    "numero" : "0486063251"
+    "numero" : "0486063251",
+    "Hobbies" : [
+        "Jeu video",
+        "Cinema",
+        "Sport"
+    ]
 }
